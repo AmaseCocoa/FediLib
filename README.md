@@ -5,7 +5,12 @@ My repository template but, CC0 so anyone is free to use it :D
 [Fedify](https://fedify.dev)-inspired ActivityPub framework for Python
 ## Feature
 - Integration with various web frameworks
-- http signacture support
+- HTTPS Signatures (sign/verify) support
+- nodeinfo (2.0/2.1) support
+- webfinger support
+- ActivityStreams Parser
+### Todo
+- LD Signatures
 ## Integration
 FediLib supports integration with the following frameworks:
 - Starlette
