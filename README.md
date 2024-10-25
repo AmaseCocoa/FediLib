@@ -1,27 +1,30 @@
 <!--
 My repository template but, CC0 so anyone is free to use it :D
 -->
-# Foo Project
-enter repository description
+# FediLib
+[Fedify](https://fedify.dev)-inspired ActivityPub framework for Python
 ## Feature
-- Fast
-- Function to generate Metasyntactic variable
-- It can also be used as Teapot :)
-- Powered by HogeHoge Framework :D
-## Install
-<!-- If Python Package
+- Integration with various web frameworks
+- http signacture support
+## Integration
+FediLib supports integration with the following frameworks:
+- Starlette
+- FastAPI
+- 
+
+Can't find the framework you're using? You can submit an issue to request support!
+## Install (WIP)
 ### Latest PyPI Release
 ```
-$ pip install foo
+$ pip install fedilib
 ```
 ### Dev Version
 ```
-$ pip install git+https://github.com/AmaseCocoa/project-template.git
+$ pip install git+https://github.com/AmaseCocoa/FediLib.git
 ```
--->
 ## License
-This project is freely available under the bar license 2.0.
+This project is freely available under MIT License.
 ## Contributors
-<a href="https://github.com/AmaseCocoa/project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AmaseCocoa/project-template" />
+<a href="https://github.com/AmaseCocoa/FediLib/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AmaseCocoa/FediLib" />
 </a>
